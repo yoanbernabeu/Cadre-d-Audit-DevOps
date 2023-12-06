@@ -1,0 +1,101 @@
+Section,Question
+Culture,"Collaboration inter-équipes : Les équipes de développement, opérations, QA, etc., travaillent-elles ensemble de manière fluide ?"
+Culture,Gestion des échecs : Les échecs sont-ils perçus comme des opportunités d'apprentissage plutôt que des fautes ?
+Culture,Rétrospectives : À quelle fréquence les rétrospectives sont-elles menées pour améliorer les processus ?
+Culture,Engagement de l'équipe : Les membres se sentent-ils impliqués et engagés dans leur travail ?
+Culture,Feedback des équipes : Le feedback est-il activement sollicité et pris en compte ?
+Culture,Formation continue : L'équipe a-t-elle accès à des formations pour développer ses compétences DevOps ?
+Culture,Équilibre entre vie professionnelle et personnelle : Comment l'organisation gère-t-elle l'équilibre travail-vie personnelle ?
+Culture,Autonomie des équipes : Les équipes disposent-elles de l'autonomie nécessaire pour prendre des décisions ?
+Culture,Reconnaissance et récompenses : Comment l'organisation reconnaît-elle et récompense-t-elle les contributions individuelles et d'équipe ?
+Culture,Diversité et inclusion : Les efforts sont-ils faits pour promouvoir la diversité et l'inclusion au sein des équipes ?
+Culture,Communication ouverte : La communication est-elle ouverte et transparente à travers l'organisation ?
+Culture,Partage des connaissances : Les connaissances et les compétences sont-elles partagées activement au sein des équipes ?
+Culture,Gestion des conflits : Les conflits sont-ils gérés de manière constructive ?
+Culture,Attitude face au changement : L'équipe est-elle réceptive et adaptable au changement ?
+Culture,Leadership supportif : Les leaders soutiennent-ils et facilitent-ils la culture DevOps ?
+Culture,Sens de la communauté : Y a-t-il un sentiment de communauté et de collaboration au sein de l'équipe ?
+Culture,Transparence des objectifs : Les objectifs de l'équipe et de l'organisation sont-ils clairs pour tous ?
+Culture,Innovation et créativité : L'innovation et la créativité sont-elles encouragées ?
+Culture,Prise de risque et initiative : La prise de risques et l'initiative sont-elles valorisées ?
+Culture,Réponses aux feedbacks clients : Comment l'équipe intègre-t-elle le feedback des clients dans ses processus ?
+Automatisation,Automatisation de l'Intégration Continue : Dans quelle mesure l'intégration continue est-elle automatisée ?
+Automatisation,Automatisation du Déploiement Continu : Quel est le niveau d'automatisation du déploiement continu ?
+Automatisation,"Automatisation des Tests : Les tests (unitaires, intégration, systèmes) sont-ils largement automatisés ?"
+Automatisation,Gestion de la Configuration : L'automatisation est-elle utilisée pour la gestion de la configuration ?
+Automatisation,Monitoring et Alertes : Dans quelle mesure le monitoring et les systèmes d'alertes sont-ils automatisés ?
+Automatisation,Provisionnement des Infrastructures : L'infrastructure est-elle provisionnée et gérée automatiquement (Infrastructure as Code) ?
+Automatisation,"Automatisation de la Sécurité : La sécurité (scans, tests) est-elle intégrée et automatisée dans le pipeline ?"
+Automatisation,Automatisation des Backups : Les sauvegardes sont-elles gérées de manière automatisée ?
+Automatisation,Pipeline de Livraison : Avez-vous un pipeline de livraison entièrement automatisé ?
+Automatisation,Récupération Automatisée : Les processus de récupération en cas de panne sont-ils automatisés ?
+Automatisation,Automatisation du Reporting : Les rapports et métriques sont-ils générés automatiquement ?
+Automatisation,"Maintenance Automatisée : Les tâches de maintenance (nettoyage, mises à jour) sont-elles automatisées ?"
+Automatisation,Scaling Automatique : L'infrastructure supporte-t-elle le scaling automatique en fonction de la demande ?
+Automatisation,Tests de Performance Automatisés : Les tests de performance sont-ils automatisés et régulièrement exécutés ?
+Automatisation,Automatisation des Révisions de Code : Utilisez-vous des outils pour automatiser les révisions de code ?
+Automatisation,Déploiement Basé sur des Politiques : Avez-vous automatisé le déploiement en fonction de politiques prédéfinies ?
+Automatisation,Gestion Automatisée des Incidents : Les réponses aux incidents sont-elles automatisées ?
+Automatisation,Automatisation des Processus d'Affaires : Les processus d'affaires sont-ils automatisés pour soutenir le DevOps ?
+Automatisation,Automatisation des Tâches Répétitives : Les tâches répétitives dans le développement et les opérations sont-elles automatisées ?
+Automatisation,Évolution de l'Automatisation : Comment l'automatisation a-t-elle évolué au fil du temps dans l'organisation ?
+Lean,Élimination des Gaspillages : Comment l'équipe identifie et élimine les gaspillages dans les processus ?
+Lean,Optimisation des Flux de Travail : Les flux de travail sont-ils optimisés pour la livraison continue ?
+Lean,Amélioration Continue (Kaizen) : Les pratiques d'amélioration continue sont-elles intégrées dans les routines quotidiennes ?
+Lean,Feedback et Itérations Rapides : Le feedback est-il utilisé pour des itérations rapides et efficaces ?
+Lean,"Gestion Visuelle (Kanban, etc.) : Utilisez-vous des outils de gestion visuelle pour suivre le progrès ?"
+Lean,Standardisation des Tâches : Les tâches et processus sont-ils standardisés pour améliorer l'efficacité ?
+Lean,Pilotage par la Valeur : Les décisions sont-elles prises en se basant sur la valeur ajoutée pour le client ?
+Lean,Limitation du Travail en Cours : Comment gérez-vous et limitez-vous le travail en cours ?
+Lean,Planification Basée sur la Demande : La planification et les priorités sont-elles ajustées en fonction de la demande réelle ?
+Lean,Flexibilité et Adaptabilité : L'équipe peut-elle s'adapter rapidement aux changements ?
+Lean,Résolution de Problèmes Systématique : Adoptez-vous une approche systématique pour la résolution de problèmes ?
+Lean,Engagement des Employés dans l'Amélioration : Les employés sont-ils encouragés à proposer des idées d'amélioration ?
+Lean,Mesure des Performances Lean : Comment mesurez-vous l'efficacité des pratiques Lean ?
+Lean,Simplicité et Épuration : Les processus et outils sont-ils conçus pour la simplicité ?
+Lean,Gestion de la Qualité Totale : Comment assurez-vous une haute qualité à chaque étape ?
+Lean,Analyse de la Valeur : Comment la valeur est-elle analysée et maximisée dans les projets ?
+Lean,Formation Lean pour les Équipes : Les membres de l'équipe reçoivent-ils une formation sur les principes Lean ?
+Lean,Rétrospectives et Feedbacks Continus : À quelle fréquence réalisez-vous des rétrospectives pour le feedback ?
+Lean,Collaboration avec les Clients : Comment intégrez-vous les clients dans le processus de développement ?
+Lean,Optimisation de la Chaîne de Valeur : Comment optimisez-vous la chaîne de valeur globale du produit ou service ?
+Mesure,Suivi des Performances des Applications : Comment suivez-vous les performances des applications en production ?
+Mesure,Mesure de la Qualité du Code : Utilisez-vous des métriques pour évaluer la qualité du code ?
+Mesure,Suivi de la Fréquence de Déploiement : Comment mesurez-vous la fréquence des déploiements ?
+Mesure,Temps de Réponse aux Incidents : Comment mesurez-vous le temps de réponse aux incidents ?
+Mesure,Taux de Succès des Déploiements : Comment suivez-vous le taux de succès des déploiements ?
+Mesure,Durée du Cycle de Développement : Mesurez-vous le temps de cycle depuis l'idée jusqu'à la mise en production ?
+Mesure,Suivi des Indicateurs de Performance Clés (KPIs) : Quels KPIs utilisez-vous pour évaluer les processus DevOps ?
+Mesure,Analyse des Tendances et Prédictions : Utilisez-vous des données pour analyser les tendances et faire des prédictions ?
+Mesure,Feedback des Clients : Comment mesurez-vous et analysez-vous le feedback des clients ?
+Mesure,Mesure de la Satisfaction des Employés : Comment évaluez-vous la satisfaction et l'engagement des employés ?
+Mesure,"Rapports d'Utilisation des Ressources : Comment suivez-vous l'utilisation des ressources (serveurs, outils, etc.) ?"
+Mesure,Analyse des Failles de Sécurité : Comment mesurez-vous et suivez-vous les failles de sécurité ?
+Mesure,Efficacité des Processus Automatisés : Évaluez-vous l'efficacité des processus automatisés ?
+Mesure,Taux d'Erreur et de Bug : Comment suivez-vous et analysez-vous le taux d'erreur et de bugs ?
+Mesure,Utilisation des Données pour les Décisions : Dans quelle mesure les données influencent-elles les décisions ?
+Mesure,Suivi des Objectifs et Résultats Clés (OKRs) : Utilisez-vous les OKRs pour suivre les progrès vers les objectifs ?
+Mesure,Mesure de l'Efficacité des Changements : Comment évaluez-vous l'impact des changements apportés ?
+Mesure,Retour sur Investissement (ROI) des Outils DevOps : Comment mesurez-vous le ROI des outils et pratiques DevOps ?
+Mesure,Visibilité des Métriques en Temps Réel : Avez-vous accès à des métriques en temps réel pour la prise de décision ?
+Mesure,Bilans Réguliers de Performance : Réalisez-vous des bilans de performance réguliers pour les projets et les équipes ?
+Partage,Partage des Connaissances entre Équipes : Comment les connaissances sont-elles partagées entre les différentes équipes ?
+Partage,"Documentation des Processus et des Systèmes : La documentation est-elle complète, à jour et facilement accessible ?"
+Partage,Retours d'Expérience et Post-Mortems : Les équipes réalisent-elles régulièrement des sessions de retour d'expérience ?
+Partage,Mentorat et Coaching : Des programmes de mentorat ou de coaching sont-ils en place pour partager les compétences ?
+Partage,Ateliers et Formations : Organisez-vous des ateliers ou des formations pour partager des connaissances spécifiques ?
+Partage,Outils de Collaboration : Quels outils sont utilisés pour faciliter la collaboration et le partage d'informations ?
+Partage,Communautés de Pratique : Existent-ils des communautés de pratique ou des groupes d'intérêt au sein de l'organisation ?
+Partage,"Partage avec l'Extérieur : Comment l'organisation partage-t-elle des connaissances avec l'extérieur (conférences, blogs, etc.) ?"
+Partage,Feedback Interne : Comment les feedbacks internes sont-ils collectés et partagés ?
+Partage,Partage des Résultats de Mesure : Les résultats des mesures et des évaluations sont-ils partagés ouvertement ?
+Partage,"Transparence des Décisions : Les décisions, en particulier celles affectant plusieurs équipes, sont-elles communiquées clairement ?"
+Partage,Collaboration sur les Problèmes Techniques : Comment les équipes collaborent-elles sur les problèmes techniques complexes ?
+Partage,Révision de Code en Équipe : Les pratiques de révision de code encouragent-elles le partage des connaissances ?
+Partage,Partage des Meilleures Pratiques : Comment les meilleures pratiques sont-elles identifiées et partagées ?
+Partage,Séances de Brainstorming Régulières : Organisez-vous des séances de brainstorming pour encourager le partage d'idées ?
+Partage,"Accès aux Ressources d'Apprentissage : Les employés ont-ils accès à des ressources d'apprentissage (bibliothèques, cours en ligne, etc.) ?"
+Partage,Encouragement à la Contribution Open Source : L'organisation encourage-t-elle les contributions à des projets open source ?
+Partage,Échanges avec d'Autres Départements : Comment les échanges sont-ils facilités avec des départements non techniques ?
+Partage,Forum de Discussion Interne : Existe-t-il des forums ou des plateformes pour le partage d'idées et de connaissances au sein de l'organisation ?
+Partage,Événements de Réseautage Internes : L'organisation organise-t-elle des événements pour favoriser le réseautage et le partage entre employés ?
